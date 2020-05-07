@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588816902 source:c:\users\fernando\google drive\escuelas\materias\lee 5to\git\2020_le\01_holamundo\main.c
+	<stdio.h>
+	<stdlib.h>
+
